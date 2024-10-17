@@ -1,12 +1,11 @@
-# Todo-App
+# TaskNest - To Do List App
 A simple todo app that stores your tasks.
 
 ## Features
 1. Kotlin
 2. Firebase Auth
 3. Firebase Realtime Database
-4. Strikethrough Feature
-5. Dialog Box
+4. Dialog Box
 
 
 ## App UI
